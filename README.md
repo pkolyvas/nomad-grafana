@@ -1,4 +1,4 @@
-# Grafana dashborad for Hashcriop Nomad
+# Grafana dashborad for Hashicorp Nomad
 
 ### Cluster Status
 
